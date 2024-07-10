@@ -1,4 +1,4 @@
-# About Journ.ie
+# Journ.ie
 Journ.ie is a unique web application designed as a journaling platform where individuals can document moments they wish to preserve and treasure—a digital archive for capturing significant milestones and memories.
 
 ## Aim and Mission
