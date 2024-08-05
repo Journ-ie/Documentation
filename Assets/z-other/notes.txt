@@ -1,0 +1,12 @@
+- login button
+- button-link is a class but this should be its own, login-butoon-link
+
+- translate other languages - just doing en for now
+
+- fix/add comments
+
+
+
+
+palette:
+purple dark nav and footer:   #38353F;
