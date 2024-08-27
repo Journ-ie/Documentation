@@ -28,4 +28,4 @@ Please find information about the web application's project plan, code and docum
 
 ## Demonstration 
 
-Please find the demonstration video on YouTube via the following link: [Journie Demo | YT](http://www.youtube.com/sample-video )
+Please find the demonstration video on YouTube via the following link: [Journie Demo | YT](https://youtu.be/JF_TQtBxIns)
